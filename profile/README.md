@@ -1,5 +1,15 @@
-# crit labs
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/crit-lockup-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/crit-lockup-light.png">
+  <img alt="crit" src="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/crit-lockup-dark.png" width="340">
+</picture>
 
-Tools for building LLM inference engines tailored to your model and hardware.
+<samp>What if building a tailored, high-performance<br>inference engine took hours instead of weeks?</samp>
 
-Our main project is [crit](https://github.com/crit-labs/crit): a runtime core, reusable inference techniques, and kernel integration tools. Build, compare, and run your own engine.
+<samp>|——<a href="https://github.com/crit-labs/crit">GitHub</a> ↗</samp><br>
+<samp>|——<a href="https://github.com/crit-labs/crit/tree/main/docs">Docs</a> ↗</samp><br>
+<samp>|——<a href="https://github.com/crit-labs/crit-hub">Engines</a> ↗</samp>
+
+<br>
+
+<sub><samp>crit-labs · Munich, DE</samp></sub>
