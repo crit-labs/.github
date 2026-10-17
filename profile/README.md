@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/crit-lockup-dark.png?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/crit-lockup-light.png?v=3">
-  <img alt="crit" src="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/crit-lockup-dark.png?v=3" width="294">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/lockup-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/lockup-light.png">
+  <img alt="crit" src="https://raw.githubusercontent.com/crit-labs/.github/main/profile/assets/lockup-dark.png" width="294">
 </picture>
 
 <samp>What if building a tailored, high-performance<br>inference engine took hours instead of weeks?</samp>
