@@ -9,9 +9,13 @@
 
 <samp>What if building a tailored, high-performance<br>inference engine took hours instead of weeks?</samp>
 
-<samp>|——<a href="https://github.com/crit-labs/crit">GitHub</a> ↗</samp><br>
+<samp>|——<a href="https://github.com/crit-labs/crit">crit</a> ↗</samp><br>
+<samp>|——<a href="https://crit-hub.dev/">Website</a> ↗</samp><br>
+<samp>|——<a href="https://github.com/crit-labs">Github</a> ↗</samp><br>
+<samp>|——<a href="https://huggingface.co/crit-labs/">HuggingFace</a> ↗</samp><br>
 <samp>|——<a href="https://github.com/crit-labs/crit/tree/main/docs">Docs</a> ↗</samp><br>
-<samp>|——<a href="https://github.com/crit-labs/crit-hub">Engines</a> ↗</samp>
+<samp>|——<a href="https://github.com/crit-eval">Eval</a> ↗</samp><br>
+<samp>|——<a href="https://github.com/crit-labs/crit-engines">Engines</a> ↗</samp>
 
 <br>
 <br>
